@@ -1,6 +1,3 @@
-/**
- * Created by Mick on 14/12/2016.
- */
 var hash = require('./hash');
 
 var pwd = process.argv[2];

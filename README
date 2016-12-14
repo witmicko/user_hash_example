@@ -1,0 +1,3 @@
+# usage
+Use either `node cli_hash.js password` to get hashed string that you can replace your plaintext with
+or dump your files to a file and run `node file_hash.js {filename}` and you ll get {}filename_out.txt file
